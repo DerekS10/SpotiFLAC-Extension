@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-26T00:00:00Z",
+  "updated_at": "2026-07-31T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -45,10 +45,10 @@
       "id": "apple-music",
       "name": "apple-music",
       "display_name": "Apple Music",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "description": "Apple Music metadata and lyrics provider for SpotiFLAC Mobile. Fetches ISRC, label, copyright, genre, composer. Lyrics require a Media User Token (Apple Music subscription).",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/apple-music.sflx",
-      "sha256": "7292273f0ae19813952cba432ef218377f3917bd0448ceb2a8b931b254ead4bf",
+      "sha256": "3ce70afaa81f3ece4f16240da159a73a4d96c1fd313c27e17b51e042d00dab7e",
       "category": "integration",
       "tags": [
         "apple",
@@ -57,7 +57,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-07-24T00:00:00Z",
+      "updated_at": "2026-07-31T00:00:00Z",
       "min_app_version": "4.2.3"
     },
     {

@@ -86,7 +86,7 @@
       "version": "2.3.10",
       "description": "YouTube Music metadata & download provider for SpotiFLAC Mobile. Search tracks, albums, playlists on YouTube Music.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/ytmusic-spotiflac.sflx",
-      "sha256": "d8bbb0655cc15d1ad0687868562210a5fde4f1baaea3628b5214c66db5a4b0ae",
+      "sha256": "042bea348082486d383aef57f4e61e5351237d9a63421830cd76f59f89b956be",
       "icon_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/icons/ytmusic-spotiflac.jpg",
       "category": "download",
       "tags": [
@@ -98,7 +98,7 @@
         "download"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-09T00:00:00Z",
+      "updated_at": "2026-08-11T00:00:00Z",
       "min_app_version": "4.5.1"
     },
     {

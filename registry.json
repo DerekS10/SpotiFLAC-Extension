@@ -25,10 +25,10 @@
       "id": "amazon",
       "name": "amazon",
       "display_name": "Amazon Music",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "description": "Amazon Music metadata & download provider for SpotiFLAC Mobile. Browse tracks, albums, artists, playlists from Amazon Music links and search. Downloads lossless and Dolby Atmos audio.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx",
-      "sha256": "4f844e9fa5b168463fb45c4f9ae6a3f278a59b0adb0070528f5d9194cf3f75f3",
+      "sha256": "97724ef6359a180931b1432c69edded15ea36e34ff5a2d82cbc11ae56044da94",
       "category": "download",
       "tags": [
         "amazon",
@@ -38,7 +38,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-07-10T00:00:00Z",
+      "updated_at": "2026-08-11T00:00:00Z",
       "min_app_version": "4.7.0"
     },
     {

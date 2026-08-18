@@ -28,7 +28,7 @@
       "version": "2.3.0",
       "description": "Amazon Music metadata & download provider for SpotiFLAC Mobile. Includes complete Amazon Web release metadata, original-resolution artwork, lossless audio, and Dolby Atmos.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx",
-      "sha256": "e6f8d6413670ad5048abf27af07cf61acae5f5e14bd6832060a7cab5aad4185d",
+      "sha256": "5089f8e0458b02fe6e52e55a6f9a050d1981a53542a7e210ec53661dba4c8e00",
       "category": "download",
       "tags": [
         "amazon",
@@ -167,7 +167,7 @@
       "version": "1.2.0",
       "description": "TIDAL metadata, search, and download provider for SpotiFLAC Mobile with complete release, credits, explicit, and disc metadata from TIDAL Web.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx",
-      "sha256": "b74d1ee01b86e8bca6f8e341e9db61a25ae0428a8f96719d1d7fac30a79cb200",
+      "sha256": "d346f3e5fdb6f349d8f6ede1310d1961862936f64b3dabbbb4fba868cea31a9a",
       "category": "download",
       "tags": [
         "tidal",

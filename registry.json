@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T00:00:00Z",
+  "updated_at": "2026-08-18T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -25,10 +25,10 @@
       "id": "amazon",
       "name": "amazon",
       "display_name": "Amazon Music",
-      "version": "2.2.2",
-      "description": "Amazon Music metadata & download provider for SpotiFLAC Mobile. Browse tracks, albums, artists, playlists from Amazon Music links and search. Downloads lossless and Dolby Atmos audio.",
+      "version": "2.3.0",
+      "description": "Amazon Music metadata & download provider for SpotiFLAC Mobile. Includes complete Amazon Web release metadata, original-resolution artwork, lossless audio, and Dolby Atmos.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx",
-      "sha256": "97724ef6359a180931b1432c69edded15ea36e34ff5a2d82cbc11ae56044da94",
+      "sha256": "e6f8d6413670ad5048abf27af07cf61acae5f5e14bd6832060a7cab5aad4185d",
       "category": "download",
       "tags": [
         "amazon",
@@ -38,7 +38,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-11T00:00:00Z",
+      "updated_at": "2026-08-18T00:00:00Z",
       "min_app_version": "4.7.0"
     },
     {
@@ -164,10 +164,10 @@
       "id": "tidal-web",
       "name": "tidal-web",
       "display_name": "Tidal",
-      "version": "1.1.7",
-      "description": "TIDAL metadata and search provider for SpotiFLAC Mobile using TIDAL public web endpoints.",
+      "version": "1.2.0",
+      "description": "TIDAL metadata, search, and download provider for SpotiFLAC Mobile with complete release, credits, explicit, and disc metadata from TIDAL Web.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx",
-      "sha256": "0d59043bab8229b5fd5664bc144aee25bfd3e6d031832cdce48b9d9ccef5ed22",
+      "sha256": "b74d1ee01b86e8bca6f8e341e9db61a25ae0428a8f96719d1d7fac30a79cb200",
       "category": "download",
       "tags": [
         "tidal",
@@ -177,7 +177,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-11T00:00:00Z",
+      "updated_at": "2026-08-18T00:00:00Z",
       "min_app_version": "4.7.0"
     }
   ]

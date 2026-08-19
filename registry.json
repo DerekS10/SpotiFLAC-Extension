@@ -105,10 +105,10 @@
       "id": "deezer",
       "name": "deezer",
       "display_name": "Deezer",
-      "version": "1.2.0",
-      "description": "Deezer metadata and download provider for SpotiFLAC Mobile.",
+      "version": "1.3.0",
+      "description": "Deezer metadata and lossless download provider with complete release, disc, barcode, credits, explicit, genre, rights, link, and original artwork metadata.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/deezer.sflx",
-      "sha256": "dfead5b50889d2855b4409c6796421ccb35ffd3cac1e002498924e9a7c5446b3",
+      "sha256": "f6a2505da67c25d4ddfc5f233fdc14e127031f7e15a39fc9d2d0b82fc4b1fd60",
       "category": "download",
       "tags": [
         "deezer",
@@ -118,7 +118,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-07-01T00:00:00Z",
+      "updated_at": "2026-08-19T00:00:00Z",
       "min_app_version": "4.7.0"
     },
     {

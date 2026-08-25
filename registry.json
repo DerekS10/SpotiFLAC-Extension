@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-08-11T00:00:00Z",
+  "updated_at": "2026-08-25T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
       "name": "spotify-web",
       "display_name": "Spotify Web",
-      "version": "1.9.14",
-      "description": "Fetch Spotify metadata via web API. Supports personalized playlists like Daily Mix, Discover Weekly, and more. Includes Home Feed explore and metadata enrichment via Spotify native ISRC plus Deezer.",
+      "version": "1.10.1",
+      "description": "Spotify metadata provider for SpotiFLAC Mobile with complete native release, disc, catalog ID, credits, and artwork metadata plus guarded genre enrichment.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.sflx",
-      "sha256": "a77976acea4f1c5e809eda9cf718821cdec010b160983c0c7de45470bbd48116",
+      "sha256": "dbf2ff5bab0e01da2554775bd9c48a1f97d154d8d7e8e859d5a429dd0a8c1ca4",
       "category": "integration",
       "tags": [
         "spotify",
@@ -18,7 +18,7 @@
         "homefeed"
       ],
       "downloads": 0,
-      "updated_at": "2026-07-24T00:00:00Z",
+      "updated_at": "2026-08-25T00:00:00Z",
       "min_app_version": "4.3.0"
     },
     {

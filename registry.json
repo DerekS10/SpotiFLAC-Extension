@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated_at": "2026-08-19T00:00:00Z",
+  "updated_at": "2026-08-25T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
       "name": "spotify-web",
       "display_name": "Spotify Web",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "description": "Spotify metadata provider for SpotiFLAC Mobile with complete native release, disc, catalog ID, credits, and artwork metadata plus guarded genre enrichment.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.sflx",
-      "sha256": "9df83038cc36113e18b97ceb838398c19dedd607f87b1684624e41ef5661703c",
+      "sha256": "dbf2ff5bab0e01da2554775bd9c48a1f97d154d8d7e8e859d5a429dd0a8c1ca4",
       "category": "integration",
       "tags": [
         "spotify",
@@ -18,7 +18,7 @@
         "homefeed"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-19T00:00:00Z",
+      "updated_at": "2026-08-25T00:00:00Z",
       "min_app_version": "4.3.0"
     },
     {

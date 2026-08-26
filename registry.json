@@ -147,7 +147,7 @@
       "version": "1.2.3",
       "description": "Qobuz metadata and download provider for SpotiFLAC Mobile with complete release metadata, credits, multi-disc totals, and original artwork.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.sflx",
-      "sha256": "5d70c51d8aadee03b5712eadfa3d1a64f34c491f844f4b3016c6da9319978c97",
+      "sha256": "671cab904925d891559d02a5e2eec7d246d1ab17a12542e1285a01ed40e25bda",
       "category": "download",
       "tags": [
         "qobuz",
@@ -158,7 +158,7 @@
       ],
       "downloads": 0,
       "updated_at": "2026-08-26T00:00:00Z",
-      "min_app_version": "4.7.0"
+      "min_app_version": "4.9.0"
     },
     {
       "id": "tidal-web",
@@ -167,7 +167,7 @@
       "version": "1.2.1",
       "description": "TIDAL metadata, search, and download provider for SpotiFLAC Mobile with complete release, credits, explicit, and disc metadata from TIDAL Web.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx",
-      "sha256": "30480dfb5e40e9baee4564e794eadef5831a5c3a28c09890a09e315386d7c0c3",
+      "sha256": "b296750dd6e34266ef8b92bd47c6233bf0dddf6baea3c897b4ea4817a7d6448b",
       "category": "download",
       "tags": [
         "tidal",
@@ -178,7 +178,7 @@
       ],
       "downloads": 0,
       "updated_at": "2026-08-26T00:00:00Z",
-      "min_app_version": "4.7.0"
+      "min_app_version": "4.9.0"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T00:00:00Z",
+  "updated_at": "2026-08-26T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -83,10 +83,10 @@
       "id": "ytmusic-spotiflac",
       "name": "ytmusic-spotiflac",
       "display_name": "YouTube Music",
-      "version": "2.4.0",
+      "version": "2.4.1",
       "description": "YouTube Music metadata and download provider with native album, artist, explicit, release, and song-credit metadata plus validated catalog enrichment.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/ytmusic-spotiflac.sflx",
-      "sha256": "242df7384d4b32f9a641368eb90374983c36c6f95de17f9b2ab1fcc162499a5e",
+      "sha256": "da7e41e45a73e52d2f40507e30372383c8f13872132e36af69f7a69fef01ebbb",
       "icon_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/icons/ytmusic-spotiflac.jpg",
       "category": "download",
       "tags": [
@@ -98,7 +98,7 @@
         "download"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-19T00:00:00Z",
+      "updated_at": "2026-08-26T00:00:00Z",
       "min_app_version": "4.5.1"
     },
     {

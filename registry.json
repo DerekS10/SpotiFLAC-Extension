@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-26T00:00:00Z",
+  "updated_at": "2026-08-29T00:00:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -25,10 +25,10 @@
       "id": "amazon",
       "name": "amazon",
       "display_name": "Amazon Music",
-      "version": "2.3.1",
+      "version": "2.3.3",
       "description": "Amazon Music metadata & download provider for SpotiFLAC Mobile. Includes complete Amazon Web release metadata, original-resolution artwork, lossless audio, and Dolby Atmos.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx",
-      "sha256": "f5a5614921c0a8f90b79abc1c42ea5dd97f1e921795cc3196f078ded335c1faf",
+      "sha256": "de20ebc0e7f7ba61645046c221a0179d7baaa5d2e175b1dcf2eade9a69510cb5",
       "category": "download",
       "tags": [
         "amazon",
@@ -38,17 +38,17 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
-      "min_app_version": "4.7.0"
+      "updated_at": "2026-08-29T00:00:00Z",
+      "min_app_version": "4.9.1"
     },
     {
       "id": "apple-music",
       "name": "apple-music",
       "display_name": "Apple Music",
-      "version": "1.4.3",
+      "version": "1.4.4",
       "description": "Apple Music metadata and lyrics provider for SpotiFLAC Mobile with guarded track matching, bounded caching, resilient requests, and complete release metadata.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/apple-music.sflx",
-      "sha256": "7f51cca828d9fe737324b5ad4fb340c12d7ebe89f971311062b5145a72acbe9a",
+      "sha256": "12b4823329e6d441b69722a1576fef0857b8ae342334c7618f5a2474921c3f19",
       "category": "integration",
       "tags": [
         "apple",
@@ -57,17 +57,17 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
+      "updated_at": "2026-08-29T00:00:00Z",
       "min_app_version": "4.2.3"
     },
     {
       "id": "soundcloud",
       "name": "soundcloud",
       "display_name": "SoundCloud",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "SoundCloud metadata and download provider. Search tracks, albums, playlists, artists. Downloads via direct SoundCloud streams.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.spotiflac-ext",
-      "sha256": "af5805d93f52bc2a18be166d6ab9bf7b02e3484f76ef7165bc19806bac8b18dc",
+      "sha256": "24bbac618194574b9b867cb52dabd34b8e8f102cec0edcbe0b9b9f85b93230ce",
       "category": "download",
       "tags": [
         "soundcloud",
@@ -76,8 +76,8 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
-      "min_app_version": "4.3.0"
+      "updated_at": "2026-08-29T00:00:00Z",
+      "min_app_version": "4.9.1"
     },
     {
       "id": "ytmusic-spotiflac",
@@ -105,10 +105,10 @@
       "id": "deezer",
       "name": "deezer",
       "display_name": "Deezer",
-      "version": "1.3.1",
+      "version": "1.3.3",
       "description": "Deezer metadata and lossless download provider with complete release, disc, barcode, credits, explicit, genre, rights, link, and original artwork metadata.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/deezer.sflx",
-      "sha256": "6320680f44f8292b16e3d83bc789305434442198820a0f11b4416538b143b04b",
+      "sha256": "c52fcde6bc8b98ac1678839b5a9341abe51702522036bb6969a9a9b717a17676",
       "category": "download",
       "tags": [
         "deezer",
@@ -118,17 +118,17 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
-      "min_app_version": "4.7.0"
+      "updated_at": "2026-08-29T00:00:00Z",
+      "min_app_version": "4.9.1"
     },
     {
       "id": "pandora",
       "name": "pandora",
       "display_name": "Pandora",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "description": "Pandora metadata and download provider for SpotiFLAC Mobile. Handles Pandora track and album URLs.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/pandora.spotiflac-ext",
-      "sha256": "71e0be1e0b3ef92f3445a5b504a37b59abb0aec6ca9cc71912112497dce8bab2",
+      "sha256": "085e29c74dc9915e6d3e2c5a8f48e17f7a20cb91c32060876afc0472bc2a1487",
       "category": "download",
       "tags": [
         "pandora",
@@ -137,17 +137,17 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
+      "updated_at": "2026-08-29T00:00:00Z",
       "min_app_version": "4.2.3"
     },
     {
       "id": "qobuz-web",
       "name": "qobuz-web",
       "display_name": "Qobuz",
-      "version": "1.2.5",
-      "description": "Qobuz metadata and download provider for SpotiFLAC Mobile with resilient artist popular tracks, complete release metadata, credits, multi-disc totals, and original artwork.",
+      "version": "1.2.8",
+      "description": "Qobuz metadata and download provider for SpotiFLAC Mobile with resilient album search and track recovery, complete release metadata, credits, multi-disc totals, and original artwork.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.sflx",
-      "sha256": "9c9e453b396a39cce34d05f8909046f2890b238d6cb420db346e12d745d641f1",
+      "sha256": "ee3d4e7565a7ff4038469d2c3af8f0bd28d9983ecf8ef0c604ff133251620a4e",
       "category": "download",
       "tags": [
         "qobuz",
@@ -157,17 +157,17 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-27T00:00:00Z",
-      "min_app_version": "4.9.0"
+      "updated_at": "2026-08-29T00:00:00Z",
+      "min_app_version": "4.9.1"
     },
     {
       "id": "tidal-web",
       "name": "tidal-web",
       "display_name": "Tidal",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "TIDAL metadata, search, and download provider for SpotiFLAC Mobile with complete release, credits, explicit, and disc metadata from TIDAL Web.",
       "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx",
-      "sha256": "b296750dd6e34266ef8b92bd47c6233bf0dddf6baea3c897b4ea4817a7d6448b",
+      "sha256": "7f72129e54f7c11f86faaa96d54386e332aaa157b8d2306893d3e1e92392a0a0",
       "category": "download",
       "tags": [
         "tidal",
@@ -177,7 +177,7 @@
         "search"
       ],
       "downloads": 0,
-      "updated_at": "2026-08-26T00:00:00Z",
+      "updated_at": "2026-08-29T00:00:00Z",
       "min_app_version": "4.9.0"
     }
   ]

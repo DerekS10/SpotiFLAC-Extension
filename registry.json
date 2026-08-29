@@ -66,7 +66,7 @@
       "display_name": "SoundCloud",
       "version": "1.0.8",
       "description": "SoundCloud metadata and download provider. Search tracks, albums, playlists, artists. Downloads via direct SoundCloud streams.",
-      "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.spotiflac-ext",
+      "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.sflx",
       "sha256": "24bbac618194574b9b867cb52dabd34b8e8f102cec0edcbe0b9b9f85b93230ce",
       "category": "download",
       "tags": [
